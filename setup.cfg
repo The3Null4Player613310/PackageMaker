@@ -1,5 +1,5 @@
 # PackageMaker: Make and publish packages using an intuitive interface.
-# Copyright (C) 2022  Nathan A. Munn
+# Copyright © 2022  Nathan A. Munn.  All rights reserved.
 # 
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

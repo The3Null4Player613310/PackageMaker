@@ -1,5 +1,5 @@
 # PackageMaker: Make and publish packages using an intuitive interface.
-# Copyright (C) 2022  Nathan A. Munn
+# Copyright © 2022  Nathan A. Munn.  All rights reserved.
 # 
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -13,3 +13,11 @@
 # You should have received a copy of the GNU General Public License along
 # with this program; if not, write to the Free Software Foundation, Inc.,
 # 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+from setuptools import setup
+
+def main_setup():
+	setup()
+
+if(__name__ == '__main__'):
+	main_setup()
